@@ -1,4 +1,4 @@
-import getStatus from '../app.js';
+import getStatus from '../app';
 
 test.each([
   [60, 'healthy'],
