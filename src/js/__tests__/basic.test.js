@@ -16,3 +16,4 @@ test.each([
     const result = getStatus({ name: 'Маг', health });
     expect(result).toBe(expected);
   });
+  
